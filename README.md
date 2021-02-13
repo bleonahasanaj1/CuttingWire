@@ -7,7 +7,7 @@ Shembull:
 
 Input:
 
-gjatesia[] = [1, 2, 3, 4, 5, 6, 7, 8]
+gjatesia[] = [1, 2, 3, 4, 5, 6, 7, 8] \n
 cmimi [] = [1, 5, 8, 9, 10, 17, 17, 20]
 
 Gjatesia e telit: 4
