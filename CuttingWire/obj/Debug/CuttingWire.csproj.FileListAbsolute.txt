@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\Algoritme\CuttingWire\bin\Debug\CuttingWire.exe.config
+C:\Users\Dell\source\repos\Algoritme\CuttingWire\bin\Debug\CuttingWire.exe
+C:\Users\Dell\source\repos\Algoritme\CuttingWire\bin\Debug\CuttingWire.pdb
+C:\Users\Dell\source\repos\Algoritme\CuttingWire\obj\Debug\CuttingWire.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Algoritme\CuttingWire\obj\Debug\CuttingWire.Form1.resources
+C:\Users\Dell\source\repos\Algoritme\CuttingWire\obj\Debug\CuttingWire.Properties.Resources.resources
+C:\Users\Dell\source\repos\Algoritme\CuttingWire\obj\Debug\CuttingWire.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Algoritme\CuttingWire\obj\Debug\CuttingWire.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Algoritme\CuttingWire\obj\Debug\CuttingWire.exe
+C:\Users\Dell\source\repos\Algoritme\CuttingWire\obj\Debug\CuttingWire.pdb
